@@ -22,41 +22,6 @@ os.system("git pull")
 os.system('clear')
 print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")
 time.sleep(5.5)
-print()
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")
-time.sleep(5.5)
-print()
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
-print()
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
 
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
-
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
-
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
-
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")
-time.sleep(5.5)
-
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
-
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
-
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
-
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
-
-print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")time.sleep(5.5)
-time.sleep(5.5)
 
 print ("\033[1;92mTOOLS ON UPDATE,WAIT FOR TONIGHT•••••")
